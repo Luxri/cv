@@ -43,7 +43,7 @@
 	aside {
 		width: 25%;
 		float: left;
-		text-align: left;
+		text-align: center;
 	}
 
 	img {
@@ -57,5 +57,3 @@
 	li {
 		text-align: left;
 	}
-
-	
